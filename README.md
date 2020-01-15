@@ -1,4 +1,5 @@
 # myundong.github.io
 
-My first repository on Github
-I write text on README.md file
+
+* 테마 적용하기 참고
+* https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
