@@ -293,3 +293,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+remote_theme : mmistakes/minimal-mistakes
+url           : "https://myundong.github.io"
+baseurl       : ""
