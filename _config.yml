@@ -301,3 +301,5 @@ defaults:
       related: true
       
 
+
+theme: jekyll-theme-cayman
